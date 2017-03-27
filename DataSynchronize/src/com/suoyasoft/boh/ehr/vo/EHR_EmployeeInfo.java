@@ -1,0 +1,52 @@
+package com.suoyasoft.boh.ehr.vo;
+
+public class EHR_EmployeeInfo
+{
+  public String psnbasdocid;
+  public String psncode;
+  public String deptcode;
+  public String psnname;
+  public String payname;
+  public String nativeplace;
+  public String cardid;
+  public String sex;
+  public String idaddress;
+  public String homeaddress;
+  public String paybank;
+  public String openacccity;
+  public String bankname;
+  public String openacc;
+  public String bloodtype;
+  public String nationly;
+  public String birthday;
+  public String polity;
+  public String marriage;
+  public String currentaddress;
+  public String tel;
+  public String mobile;
+  public String email;
+  public String scieti;
+  public String ls;
+  public String urgcyname;
+  public String urgcyaddress;
+  public String urgcytel;
+  public String urgcyrelation;
+  public String urgcyunit;
+  public String psntype;
+  public String pk_psncl;
+  public String indutydate;
+  public String keyacctype;
+  public String worktype;
+  public String currentdept;
+  public String pk_omduty;
+  public String jobname;
+  public String company;
+  public String maturity;
+  public String billhealthcode;
+  public String Recruitchanne;
+  public String hukou;
+  public String city;
+  public String info1;
+  public int status;
+  public EHR_WorkInfo workInfo;
+}
